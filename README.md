@@ -5,7 +5,7 @@
 <a href="https://leetcode.com/lemikistu/">
   <img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://medium.com/@o">
+<a href="https://medium.com/@lemikistu_46876">
   <img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 <br />
