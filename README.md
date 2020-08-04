@@ -32,6 +32,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <br />
 <br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&count_private=true&theme=dracula) ![Dequarantine](https://github-readme-stats.vercel.app/api/pin/?username=orhanarifoglu&repo=dequarantine&show_icons=true&theme=dracula)
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
