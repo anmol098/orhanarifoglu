@@ -2,7 +2,7 @@
 ### Hi there 👋 I am [Orhan](https://orhanarifoglu.github.io)
 
 
-<a href="https://leetcode.com/orhan/">
+<a href="https://leetcode.com/lemikistu/">
   <img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://medium.com/@o">
