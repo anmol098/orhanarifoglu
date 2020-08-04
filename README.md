@@ -28,11 +28,11 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 <div><p>My profile overview: </p></div>
 
-![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true)
+![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true&theme=dracula)
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&count_private=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&count_private=true&theme=dracula)
 <br />
 <br />
 
