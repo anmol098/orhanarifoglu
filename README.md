@@ -22,7 +22,7 @@
  <p>
 
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check outy repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project. Visit my [Sourcerer.io](https://sourcerer.io/orhanarifoglu) page for interesting stats about my programming journey.
 
 I also work [@OSC](https://github.com/Open-Source-Project-Collaboration). Where as group of devs around the world, we vote and implement complex projects that is hard for single person to do. That way we get better at code reading open source and team skills. Feel free to join us for open source collaboaration!
 
@@ -152,7 +152,7 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
