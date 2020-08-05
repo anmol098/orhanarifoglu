@@ -8,8 +8,7 @@
 <a href="https://medium.com/@lemikistu_46876">
   <img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
-<br />
-<br />
+
 
 <div>
  <p>
@@ -24,7 +23,6 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </h4>
 </div>
 
-<br />
 
 <b>Languages and Tools</b> <br>
 
