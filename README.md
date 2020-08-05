@@ -39,8 +39,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <b>My Skills</b> <br>
   
 </summary>
-<\br>
-<\br>
+</br>
+</br>
 <b>Languages and Tools</b>
 
 
@@ -59,8 +59,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </p>
 
 
-<\br>
-<\br>
+</br>
+</br>
 
 <b>Other stuff</b>
 <p align="left">
