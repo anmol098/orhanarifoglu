@@ -34,7 +34,11 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 </br>
 
-<b>Languages and Tools</b> <br>
+<details>
+<summary>
+  <b>Languages and Tools</b> <br>
+</summary>
+
 
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
