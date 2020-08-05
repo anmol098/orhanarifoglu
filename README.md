@@ -43,6 +43,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 </p>
 
+<br />
+
 ### My skills include
 
 <p align="left">
