@@ -8,6 +8,12 @@
 <a href="https://medium.com/@lemikistu_46876">
   <img align="left" alt="Orhan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
+<a href="https://www.hackerrank.com/ajaykhalsa_ak">
+  <img align="left" alt="Ajay's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+<a href="https://www.kaggle.com/ajaykhalsa">
+  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+</a>
 
 </br>
 </br>
@@ -66,6 +72,9 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 <br />
 <br />
 
