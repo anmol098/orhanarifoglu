@@ -1,6 +1,5 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
- I am [Orhan](https://orhanarifoglu.github.io)
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2> I am [Orhan](https://orhanarifoglu.github.io)
 
 
 <a href="https://leetcode.com/lemikistu/">
