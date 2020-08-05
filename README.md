@@ -36,10 +36,11 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 <details>
 <summary>
-  <b>Languages and Tools</b> <br>
+### My skills include
+  
 </summary>
 
-
+<b>Languages and Tools</b>
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
@@ -56,8 +57,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 
 
-### My skills include
 
+<b>Other stuff</b>
 <p align="left">
 	<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
@@ -156,7 +157,7 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-</details>
+
 
 <div><p>My profile overview: </p></div>
 
@@ -171,6 +172,8 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
+
+</details>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanarifoglu.orhanarifoglu)
 
