@@ -151,7 +151,7 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact)
 <br />
 <br />
 
