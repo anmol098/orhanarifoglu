@@ -65,6 +65,13 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 	<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 </p>
 
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+
 <div><p>My profile overview: </p></div>
 
 ![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
