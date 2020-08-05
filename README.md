@@ -31,7 +31,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/python2.svg" alt="python" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
