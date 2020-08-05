@@ -36,7 +36,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 <details>
 <summary>
-### My skills include
+<b2> My skills include <\b2>
   
 </summary>
 
@@ -168,12 +168,12 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
+</details>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
 
-</details>
+
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=orhanarifoglu.orhanarifoglu)
 
