@@ -36,7 +36,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 <details>
 <summary>
-<b>Stats</b> <br>
+<b>My Skills</b> <br>
   
 </summary>
 
