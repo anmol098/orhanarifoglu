@@ -1,6 +1,8 @@
 name: Waka Readme
 
 on:
+  watch:
+    types: [started]
   workflow_dispatch:
   schedule:
     # Runs at 10:15AM BST
