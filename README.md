@@ -41,6 +41,9 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </summary>
 
 <b>Languages and Tools</b>
+
+<\br>
+<\br>
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
@@ -168,7 +171,9 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
