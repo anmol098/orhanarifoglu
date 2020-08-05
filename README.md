@@ -39,11 +39,11 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <b>My Skills</b> <br>
   
 </summary>
-
+<\br>
+<\br>
 <b>Languages and Tools</b>
 
-<\br>
-<\br>
+
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
@@ -59,7 +59,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </p>
 
 
-
+<\br>
+<\br>
 
 <b>Other stuff</b>
 <p align="left">
