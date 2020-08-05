@@ -43,7 +43,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </br>
 <b>Languages and Tools</b>
 
-
+</br>
+</br>
 <p align="center">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
@@ -90,17 +91,6 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <br/>
 <br/>
 
-<b>Other stuff</b>
-<p align="center">
-	<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
-	<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
-	<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/git.svg" width="70" height="40" />
-	<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
-	<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-	<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
-</p>
 
 </details>
 
@@ -109,7 +99,8 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <summary>
   <b>Stats</b> <br>
 </summary>
-
+</br>
+</br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-726-blue)
 
@@ -189,10 +180,6 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
-
-<div><p>My profile overview: </p></div>
-
 ![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
@@ -202,7 +189,8 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
+</br>
+</br>
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
 <br />
