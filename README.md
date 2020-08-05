@@ -78,6 +78,14 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
+	<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
+	<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
+	<img title="Git" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/git.svg" width="70" height="40" />
+	<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
+	<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
+	<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
+	<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 </p>
 <br/>
 <br/>
