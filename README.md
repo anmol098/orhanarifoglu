@@ -153,9 +153,7 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 <br />
