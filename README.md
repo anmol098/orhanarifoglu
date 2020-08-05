@@ -26,6 +26,23 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 <br />
 
+<b>Languages and Tools</b> <br>
+
+<p align="center">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/orhanarifoglu/orhanarifoglu/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+
+</p>
+
 <div><p>My profile overview: </p></div>
 
 ![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true&theme=dracula)
