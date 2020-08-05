@@ -67,6 +67,81 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-594-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 140 Contributions in year 2020
+ > 
+> 📦 Used 150.3 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 7 Owned Private Repositories 
+
+**I'm a night 🦉** 
+
+```text
+🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
+🌆 Daytime    124 commits    ██████░░░░░░░░░░░░░░░░░░░   27.37% 
+🌃 Evening    205 commits    ███████████░░░░░░░░░░░░░░   45.25% 
+🌙 Night      84 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.54%
+
+```
+📅 **I'm Most Productive on Mondays** 
+
+```text
+Monday       132 commits    ███████░░░░░░░░░░░░░░░░░░   29.14% 
+Tuesday      32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+Wednesday    103 commits    █████░░░░░░░░░░░░░░░░░░░░   22.74% 
+Thursday     28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.18% 
+Friday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+Saturday     32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
+Sunday       96 commits     █████░░░░░░░░░░░░░░░░░░░░   21.19%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Europe/London
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in Java** 
+
+```text
+Java         14 repos       ██████████████░░░░░░░░░░░   58.33% 
+Python       2 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C#           2 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML         2 repos        ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+ShaderLab    1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Assembly     1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+PHP          1 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/orhanarifoglu/orhanarifoglu/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
