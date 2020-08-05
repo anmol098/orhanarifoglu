@@ -69,6 +69,13 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 	<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 </p>
 
+</details>
+
+
+<details>
+<summary>
+  <b>Stats</b> <br>
+</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-726-blue)
@@ -148,6 +155,8 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+</details>
 
 <div><p>My profile overview: </p></div>
 
