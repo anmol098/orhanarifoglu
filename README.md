@@ -52,10 +52,11 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 	<img title="Hadoop" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/scala.svg" width="40" height="40" />
+	<img title="Git" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/git.svg" width="70" height="40" />
 	<img title="Bamboo" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/bamboo.svg" width="40" height="40" />
 	<img title="AWS" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/aws.svg" width="60" height="40" />
 	<img title="Kafka" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/kafka.svg" width="105" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/git.svg" width="70" height="40" />
+	<img title="linux" src="https://raw.githubusercontent.com/orhanarifoglu/orhanarifoglu/master/Assets/linux-tux.svg" width="40" />
 </p>
 
 <div><p>My profile overview: </p></div>
