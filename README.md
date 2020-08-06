@@ -100,7 +100,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </summary>
 
 <!--START_SECTION:waka-->
-</br>
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-726-blue)
 
 **🐱 My GitHub Data** 
