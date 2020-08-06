@@ -98,8 +98,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 <summary>
   <b>Stats</b> <br>
 </summary>
-</br>
-</br>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-726-blue)
 
