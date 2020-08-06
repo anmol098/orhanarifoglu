@@ -100,6 +100,7 @@ Do visit my Medium page and blog where I occasionally publish about my experienc
 </summary>
 
 <!--START_SECTION:waka-->
+</br>
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-726-blue)
 
 **🐱 My GitHub Data** 
@@ -179,9 +180,6 @@ PHP          1 repos        █░░░░░░░░░░░░░░░░�
 
 
 ![Orhan's github stats](https://github-readme-stats.vercel.app/api?username=orhanarifoglu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
-<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orhanarifoglu&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
